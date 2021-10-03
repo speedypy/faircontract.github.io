@@ -12,3 +12,5 @@ Token#1 {
         Token Group Link: "tg",
 };
 ```
+
+There is no fee required for listing...
