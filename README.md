@@ -1,1 +1,0 @@
-# faircontract.github.io
